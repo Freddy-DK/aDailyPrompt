@@ -36,7 +36,7 @@ You will have the same functionality in the side panel of your Edge browser as y
 
 ## Let's write a magic prompt...
 
-[Watch the video](./2025-09-04%20Get%20started%20with%20Copilot.video.mp4)
+[Watch the video](https://www.dropbox.com/scl/fi/wvxia6mvdd84ihcadx5n2/2025-09-04-Get-started-with-Copilot.video.mp4?rlkey=eeiz8babe1x1bzricimc00x3h&st=ruo09bsc&dl=1)
 
 Ok... - maybe not that magical.
 
