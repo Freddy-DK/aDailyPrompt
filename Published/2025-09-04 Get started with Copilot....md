@@ -1,5 +1,7 @@
 # Get started with Copilot...
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/caea47ad-f72d-4679-9cc6-8e9adf1f95ea" />
+
 Copilot is Microsofts name for their AI offerings, but Copilot isn't just one thing, Copilot really covers a number of things and Microsoft are building Copilot into many of their products in order to assist users being more productive.
 
 | Copilot Product | Access Requirements | Key Features |
@@ -33,6 +35,8 @@ When purchasing Copilot Pro for your personal account, you will get additional q
 You will have the same functionality in the side panel of your Edge browser as you have in the Copilot app. If your browser profile is personal, you will have the Microsoft Copilot functionality and if your browser profile is a work account, you will have the Microsoft 365 Copilot functionality.
 
 ## Let's write a magic prompt...
+
+[Watch the video](https://www.dropbox.com/scl/fi/wvxia6mvdd84ihcadx5n2/2025-09-04-Get-started-with-Copilot.video.mp4?rlkey=eeiz8babe1x1bzricimc00x3h&st=ruo09bsc&dl=1)
 
 Ok... - maybe not that magical.
 
