@@ -5,6 +5,7 @@
 ChatGPT is the front-end for many of OpenAI's offerings. ChatGPT comes in various flavors, including a free model.
 
 | Plan | Model Access | Usage Limits | Performance | Best For |
+| --- | --- | --- | --- | --- |
 | Free | Limited GPT‑5 | Strict caps | Lower priority | Casual use, exploring AI |
 | Plus | GPT‑5 with priority | Higher than Free | Faster, | more reliable | Regular users, creatives |
 | Pro | GPT‑5 Pro & advanced | Very high / unlimited | Fastest, | top priority | Power users, developers, heavy AI tasks |
