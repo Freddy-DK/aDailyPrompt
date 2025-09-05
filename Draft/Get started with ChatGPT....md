@@ -1,6 +1,6 @@
 # Get started with ChatGPT...
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/caea47ad-f72d-4679-9cc6-8e9adf1f95ea" />
+<img width="1024" height="1024" alt="ChatGPT Image Sep 5, 2025, 09_14_05 AM" src="https://github.com/user-attachments/assets/8980e631-b28e-4bd7-9164-33afbf5f8915" />
 
 ChatGPT is the front-end for many of OpenAI's offerings. ChatGPT comes in various flavors, including a free model.
 
