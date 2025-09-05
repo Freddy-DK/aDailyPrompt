@@ -21,7 +21,7 @@ Obviously, this post will not dive into the details of every one of these Copilo
 
 ## Get the Copilot app
 
-on Android, you will find two Copilot apps from Microsoft:
+In the Microsoft Store on Windows 11, in the Apple App Store on the iPhone or in the Google Play Store on Android, you will find two Copilot apps from Microsoft:
 
 1. Microsoft Copilot
 1. Microsoft 365 Copilot
@@ -45,3 +45,9 @@ This post was written on September 4th, 2025 - things might/will change...
 Until next time
 
 ***A Daily Prompt***
+
+## Metadata
+
+Category: Get started
+
+Tags: Beginner, Copilot
