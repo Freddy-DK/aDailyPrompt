@@ -11,7 +11,7 @@ ChatGPT is the front-end for many of OpenAI's offerings. ChatGPT comes in variou
 | Pro | GPT‑5 Pro & advanced | Very high / unlimited | Fastest, | top priority | Power users, developers, heavy AI tasks |
 | Business | GPT‑5 Business Tier | Very high / unlimited | High across teams | Teams, enterprises needing admin tools |
 
-Obviously, this post will not dive into the details of every one of these Copilots and the list might not be exhaustive. The above table is just to explain that just because you think you have Copilot, you might have a different Copilot than you expected:-)
+Obviously, this post will not dive into the details of every one of these SKUs and the list might even change going forward. The above table is just to explain that just because you think you have ChatGPT, there might be more to the story:-)
 
 ## Get the ChatGPT app
 
